@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vineeth</h1>
-<h3 align="center">An aspiring Deep learning enthusiast</h3>
+<h3 align="center"><i>An aspiring Deep Learning Enthusiast</i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineeth2281&label=Profile%20views&color=0e75b6&style=flat" alt="vineeth2281" /> </p>
 
