@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vineeth</h1>
-<h3 align="center"><i>An aspiring Deep Learning Enthusiast</i></h3>
+<h3 align="center"><i>Aspring Machine Learning Researcher</i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineeth2281&label=Profile%20views&color=0e75b6&style=flat" alt="vineeth2281" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Auto Image Caption Generator**
+- 🔭 I’m currently working on **Sentence to painting using VQGAN**
 
 - 🌱 I’m currently learning **Competitive programming**
 
-- 👯 I’m looking to collaborate on **Deep Learning projects**
+- 👯 I’m looking to collaborate on **ML Research projects**
 
 - 👨‍💻 All of my projects are available at [vineeth2281.github.io/Web](vineeth2281.github.io/Web)
 
